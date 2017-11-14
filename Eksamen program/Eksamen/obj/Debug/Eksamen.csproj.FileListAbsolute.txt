@@ -1,0 +1,7 @@
+C:\Users\felix\Desktop\skole stuff\Programering\ConsoleApps\Eksamen\Eksamen\bin\Debug\Eksamen.exe.config
+C:\Users\felix\Desktop\skole stuff\Programering\ConsoleApps\Eksamen\Eksamen\bin\Debug\Eksamen.exe
+C:\Users\felix\Desktop\skole stuff\Programering\ConsoleApps\Eksamen\Eksamen\bin\Debug\Eksamen.pdb
+C:\Users\felix\Desktop\skole stuff\Programering\ConsoleApps\Eksamen\Eksamen\obj\Debug\Eksamen.csprojResolveAssemblyReference.cache
+C:\Users\felix\Desktop\skole stuff\Programering\ConsoleApps\Eksamen\Eksamen\obj\Debug\Eksamen.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\skole stuff\Programering\ConsoleApps\Eksamen\Eksamen\obj\Debug\Eksamen.exe
+C:\Users\felix\Desktop\skole stuff\Programering\ConsoleApps\Eksamen\Eksamen\obj\Debug\Eksamen.pdb
